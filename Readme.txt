@@ -1,0 +1,1 @@
+Bu projede Constructor bir class kullanarak hesaplama işlemleri yapmaktadır java dilinde yazılmıştır. 
